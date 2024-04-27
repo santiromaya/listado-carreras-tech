@@ -93,7 +93,7 @@
 | Profesorado en Informática | https://www.unsada.edu.ar/images/academico/Res_Min_Edu/INF-RES_1072-18.pdf | Universidad Nacional de San Antonio de Areco | UNSAdA | http://www.unsada.edu.ar/ |
 | Licenciatura en sistemas de información | https://fce.unse.edu.ar/?q=node/89 | Universidad Nacional de Santiago del Estero | UNSE | http://www.unse.edu.ar/ |
 | Profesorado en informática | https://fce.unse.edu.ar/?q=node/98 | Universidad Nacional de Santiago del Estero | UNSE | http://www.unse.edu.ar/ |
-| Técnicatura universitaria en informática | https://fce.unse.edu.ar/?q=node/129 | Universidad Nacional de Santiago del Estero | UNSE | http://www.unse.edu.ar/ |
+| Programador Universitario en Informática | https://fce.unse.edu.ar/?q=node/129 | Universidad Nacional de Santiago del Estero | UNSE | http://www.unse.edu.ar/ |
 | Análisis de sistemas | https://fcyt.uader.edu.ar/carreras/analisis-de-sistemas/ | Universidad Nacional de Tierra del Fuego, Antártida e Islas del Atlántico Sur | UNTDF | http://www.untdf.edu.ar/ |
 | Licenciatura en Sistemas | https://fcyt.uader.edu.ar/carreras/licenciatura-en-sistemas-de-informacion/ | Universidad Nacional de Tierra del Fuego, Antártida e Islas del Atlántico Sur | UNTDF | http://www.untdf.edu.ar/ |
 | Lic en estadística y ciencia de datos | https://www.untref.edu.ar/carrera/estadistica |  |  |  |
